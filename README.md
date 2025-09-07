@@ -1,1 +1,1 @@
-# mcp-learning-tutorial
+# Comprehensive MCP Tutorial

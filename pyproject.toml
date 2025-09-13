@@ -1,0 +1,11 @@
+[project]
+name = "mcp-learning-tutorial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=2.12.3",
+    "mcp[cli]>=1.13.1",
+    "psutil>=5.9.0",
+]
